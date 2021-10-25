@@ -1,0 +1,3 @@
+echo "Miskine Ben"
+sleep 3
+reboot
